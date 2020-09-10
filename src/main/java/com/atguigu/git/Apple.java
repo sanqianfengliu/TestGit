@@ -10,5 +10,7 @@ package com.atguigu.git;
  * @date 2020年9月9日下午9:25:07
  */
 public class Apple {
-
+	public static void main(String[] args) {
+		System.out.println("2");
+	}
 }
